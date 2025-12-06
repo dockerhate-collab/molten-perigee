@@ -1,0 +1,3 @@
+- Creating gist hello.txt
+✓ Created secret gist hello.txt
+https://gist.github.com/dockerhate-collab/afda53062d0610442928fee1a5be394e
